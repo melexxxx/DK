@@ -1,0 +1,389 @@
+Employee ID,User ID,Employee Name,Badge Barcode ID,Department ID,Employment Start Date,Employment Type,Employee Status,Manager Name,Temp Agency Code
+109376713,marmrt,"Morton,Marlon",14424926,1092,Mon Mar 01 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+108732311,zorilenn,"Zoric,Lennon William",0059254,1092,Sun Sep 12 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+201653575,gambizao,"Gambizah,Obey Tadiwanashe",13739139,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+201371217,mamlejul,"Juliana,Mamle",13025037,1174,Thu Apr 27 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+201283995,gansonga,"Georgina,Ansong",11117845,1174,Tue Apr 04 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+201324726,olcerkov,"Cerkovskyte,Olivija",15214771,1092,Mon Apr 17 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+108412469,iphdarre,"Phillips,Darren",12400200,1092,Sun Oct 09 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+111352780,mariaiqu,"Queta,Maria Isabela",13380335,1174,Thu Oct 28 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+201323972,ediogosa,"Santos,Diogo",13923675,1092,Sun Apr 16 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+103440101,briedk,"Briedis,Kipras",13966798,1092,Sat Mar 18 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+109969524,adjemedm,"Adjei,Medina",15064404,1092,Sun Oct 02 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+106429643,sbbirka,"Birka,Samanta",11493049,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"Richardson,Neil",
+102915084,eprismo,"Prismontaite,Egle",14317533,1092,Fri Sep 16 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+101371673,fakhara,"Abbas,Fakhar",11102443,1092,Sun Jul 28 00:00:00 UTC 2019,AMZN,Active,"Krzeminska,Katarzyna",
+112565451,fadamjac,"Jackson,Adam",13503410,1705,Mon May 23 00:00:00 UTC 2022,AMZN,Active,"Wilson,Nathan",
+108399692,inavprek,"Kaur,Navpreet",13276193,1092,Fri Apr 07 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+109933055,nfaisalr,"Riaz,Faisal",15025279,1092,Sun Aug 01 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+107001868,karegina,"Kavaliauskaite,Regina",12812233,1092,Sun Jan 31 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+105279317,lssenkuv,"Senkuviene,Laura",11747441,1092,Sun Apr 19 00:00:00 UTC 2020,AMZN,Active,"Richardson,Neil",
+105923696,foallyso,"Fountain,Allyson Laura",13029462,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+201673220,stvargov,"Vargovic,Stefan",11486988,1092,Wed Jun 28 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+110480770,radektor,"Torak,Radek",12377240,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+103935522,janujust,"Janusevicius,Justin",11578609,1092,Thu Mar 23 00:00:00 UTC 2023,3PTY,Active,"Richardson,Neil",CTRG
+103341195,asarejos,"Asare,Joseph",12413969,1092,Fri May 19 00:00:00 UTC 2023,3PTY,Active,"Gyan,Belinda Asuaah",CTRG
+113063633,ygroivan,"Grove,Ivan",12402250,1092,Fri Sep 09 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+111381441,bagdkras,"Bagdoniene,Rasa",14333829,1092,Sun Dec 12 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+101072395,bituncan,"Nassunculo,Bituncal",11328488,1092,Sun Nov 20 00:00:00 UTC 2016,AMZN,Active,"Kapcia,Bartosz",
+101365187,ianwalli,"Wallis,Ian",13958359,1092,Sun Aug 21 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+201200590,tarnzcos,"Costen,Tarnya",14867965,1092,Fri Mar 10 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+200803213,yovevata,"Yovev,Atanas",11988143,1092,Thu Nov 17 00:00:00 UTC 2022,3PTY,Active,"Kapcia,Bartosz",CTRG
+109596348,collleth,"Collings,Ethan Scott",14660065,1092,Sun Aug 29 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+549807,smmusht,"MUSHTAQ,SONYA",11558297,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+200192511,geanson,"Ansong,Georgina",13776876,1174,Thu Apr 27 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+109840210,cmarcimo,"Mocha,Marcin",14919442,1092,Sun Aug 22 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+103969375,jegoarin,"Jegorova,Arina",11817204,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Richardson,Neil",
+100183972,alvesjoe,"Alves,Joel",0335940,1299,Wed Jan 04 00:00:00 UTC 2017,3PTY,Active,"Nichols,Jordan",MAN
+200595294,avangrel,"Van Greunen,Lorin Melanie",12666930,1092,Mon Oct 24 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+108633370,zbarmatt,"Barker,Matthew",12324675,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+111876632,sallamma,"Salla,Mariana",14172086,1174,Wed Dec 22 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+201672661,jamndifo,"James,Ndifor Nyambi",13278415,1092,Wed Jun 28 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+102031255,goodwn,"Goodwin,Nicola",11983665,1092,Mon Mar 20 00:00:00 UTC 2017,AMZN,Active,"Richardson,Neil",
+106663648,rashidka,"Rashid,Kamilah",12054238,1092,Sun Jan 10 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+104676180,maannas,"Annas,Muhammad",11865615,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"Rigueiro,Filipa",
+105021368,rutagent,"Gentvainyte,Ruta",11510808,1092,Sun Apr 12 00:00:00 UTC 2020,AMZN,Active,"Richardson,Neil",
+104363818,jakerika,"Jakab,Erika",11422594,1092,Thu Apr 27 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+104289633,habarash,"Habara,Stefan Manuel",11325729,1092,Sun Nov 24 00:00:00 UTC 2019,AMZN,Active,"Richardson,Neil",
+201292902,oszcjust,"Szczurkowska,Justyna",12331668,1092,Sat Apr 08 00:00:00 UTC 2023,3PTY,Active,"Richardson,Neil",CTRG
+105808816,cstamc,"Costa,Maria Lurdes Baltazar",12902480,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+201687414,aaronfea,"Fearn,Aaron",13543380,1092,Sun Jul 02 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+200791597,nabweshy,"Nabweteme,Shafin Bazanye",14483798,1092,Fri Apr 21 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+200906401,shamsjac,"Shamsi,Jacob",15315101,1092,Sat Dec 03 00:00:00 UTC 2022,3PTY,Active,"Vanhala,Nico Matias",CTRG
+110812969,agmaldis,"Maldis,Agne",12640441,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+110892845,iqbumair,"Iqbal,Umair",11025615,1092,Mon Jul 25 00:00:00 UTC 2022,AMZN,Active,"Gyan,Belinda Asuaah",
+111352787,ibamamas,"Baio,Mama Sa",11727041,1174,Thu Oct 28 00:00:00 UTC 2021,3PTY,Active,"Bennett,Jack",PHO
+106763288,pikegeor,"Pike,George Denys Duncan",13737087,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+111599406,izabeean,"Angelova,Izabela Andreeva",12560999,1092,Sun Mar 27 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+105045784,gobanf,"Gada,Falmata",15243673,1092,Fri Apr 07 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+111349620,pereirlo,"Pereira,Olga",13394691,1174,Thu Oct 28 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+110527077,hayashvi,"Hayashi,Iuliana",13771267,1092,Sun Sep 11 00:00:00 UTC 2022,AMZN,Active,"Hughes,Andrew",
+108090627,treimam,"Treimanis,Martins",13727400,1092,Sun Jul 31 00:00:00 UTC 2022,AMZN,Active,"Kapcia,Bartosz",
+113174428,merriccu,"Merrill,Curtis",11928258,1705,Mon Oct 31 00:00:00 UTC 2022,AMZN,Active,"Wilson,Nathan",
+108773571,rodkbona,"Bonapos,Rod Kent Fernando",11712164,1092,Thu Jun 01 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+102686503,sacarams,"Sacara,Margarita",0333289,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+724676,jkirstei,"Kirsteine,Jolanta",11312882,1092,Sun Oct 16 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+111349621,florkmon,"Monteiro,Florenca Dias",13438667,1174,Thu Oct 28 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+112834908,bellrory,"Bello-Matthews,Rory",13089757,1092,Sun Oct 16 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+101682934,mmmuraru,"Muraru,Marian Gabriel",11583199,1092,Fri Jun 02 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+201626870,mikeladc,"Mikeladze,Anano",14598839,1092,Fri Jun 23 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+108321860,nataldal,"Daly,Nat",11294313,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+106763302,adachura,"Churas,Adam",12574156,1092,Mon Oct 04 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+105828968,edrsharm,"Sharman,Edrop Matthew",13662147,1092,Sun Mar 27 00:00:00 UTC 2022,AMZN,Active,"Gyan,Belinda Asuaah",
+105033772,chimbav,"Chimba,Victor",11567214,1092,Sun Jul 31 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+111349579,kincajav,"Ca Javares Sa,Inice",12073522,1174,Thu Oct 28 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+113052195,kunectal,"Kunecki,Alan",14579699,1092,Thu Sep 08 00:00:00 UTC 2022,3PTY,Active,"Richardson,Neil",CTRG
+200369202,helddafo,"Da Fonseca Amaral,Helder",15072912,1092,Sun Dec 18 00:00:00 UTC 2022,AMZN,Active,"Hughes,Andrew",
+110357246,ditfride,"Fridenberga,Dita",12775367,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+101866388,dolmay,"Dolma,Youngkha",11812631,1172,Thu Dec 01 00:00:00 UTC 2016,3PTY,Active,"Nichols,Jordan",MAN
+108526075,marinaol,"Olteanu,Marina",11871522,1092,Sun Jan 16 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+112746999,okekealy,"Okeke,Alexis",12277901,1092,Tue Jun 28 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+103935472,sakies,"Sakiene,Sandra",12600773,1092,Fri Sep 16 00:00:00 UTC 2022,3PTY,Active,"Vanhala,Nico Matias",CTRG
+101383310,bunua,"Bunu,Alexandra",11259313,1153,Sun Oct 16 00:00:00 UTC 2016,AMZN,Active,"Forge,Rebecca",
+110372278,cheungts,"Cheung,Tsz Chung",13572206,1092,Tue Jul 27 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+105738803,fcristes,"Cristescu,Florentina-Talida",12823535,1092,Sun Apr 26 00:00:00 UTC 2020,AMZN,Active,"Rigueiro,Filipa",
+108812334,balmanta,"Balcius,Mantas",0096998,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+110470384,adriatsu,"Surley,Adrian",12416060,1092,Mon Aug 09 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+200832733,fordonar,"Fordon,Arthur Alexandru",11095868,1092,Sun Nov 20 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+110936457,isnatasc,"Sharpe,Natascha",11776005,1092,Sun Sep 11 00:00:00 UTC 2022,AMZN,Active,"Hughes,Andrew",
+113025945,quaddani,"Quadros,Daniela Filipa dias de",13220638,1092,Sun Oct 09 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+105923716,srrashev,"Rashev,Severin Denishev",13028951,1092,Sun Nov 29 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+109410757,tamsynsi,"Sibanda,Tamsyn Selina",14458052,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+111146222,maxbayli,"Bayliss,Max",13715698,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+110746195,amihaese,"Petrisor,Amihaese Cosmin",11057137,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+109812347,younstam,"Young,Stanley Owolabi",12074077,1092,Thu Jun 15 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+112867625,zawanata,"Zawadzka,Natalia",13195803,1092,Sun Oct 02 00:00:00 UTC 2022,AMZN,Active,"Kapcia,Bartosz",
+201687499,ranatjes,"Rana,Jeson",14064830,1092,Sun Jul 02 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+112495865,bryonsav,"Sansby,Bryony",13036816,1092,Sun Oct 02 00:00:00 UTC 2022,AMZN,Active,"Kapcia,Bartosz",
+201456352,malimuss,"Mussa,Ali Baraka",12050508,1092,Fri May 19 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+112410130,ddamoatk,"Atkins,Damo",15043353,1092,Sun Jul 17 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+111938411,ebashara,"Khan,Basharat",15070581,1172,Fri Jan 07 00:00:00 UTC 2022,3PTY,Active,"Nichols,Jordan",MCPL
+103179408,hitchenh,"Hitchen,Heather",11473425,1092,Tue Mar 27 00:00:00 UTC 2018,3PTY,Active,"Dreczewski,Aron",CTRG
+108526048,innesjon,"Innes,Jonathan",13227564,1092,Sun Aug 01 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+107713004,varjordy,"Vargas Valdez,Jordy Adrian",12256553,1092,Sun Jun 27 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+200689245,vikezazi,"Vike-Zazite,Elna",12711145,1092,Thu Nov 03 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+111307431,yasrajir,"rajim,yasmine Chanez",11870091,1092,Sun Mar 27 00:00:00 UTC 2022,AMZN,Active,"Gyan,Belinda Asuaah",
+201239622,djosucar,"Cardoso,Josue",13899320,1092,Fri Mar 24 00:00:00 UTC 2023,3PTY,Active,"Gyan,Belinda Asuaah",CTRG
+110053137,dtorral,"Parker,Daniel Eduardo",15155446,1092,Mon Jun 21 00:00:00 UTC 2021,AMZN,Active,"Gyan,Belinda Asuaah",
+111676839,ashtburg,"Burgess,Ashton",0343033,1092,Sun Jan 09 00:00:00 UTC 2022,AMZN,Active,"King,Jacob Thomas",
+201687496,halitode,"Odewale,Halimah",14406049,1092,Sun Jul 02 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+110891461,rijevgen,"Rimsa,Jevgenijs",11378198,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+107001937,zazamm,"Mohamed,Azam Abdullah",11183751,1092,Sun Oct 02 00:00:00 UTC 2022,AMZN,Active,"Kapcia,Bartosz",
+100014321,radhwane,"Kaddour,Radhwane",0171291,1092,Sun Dec 22 00:00:00 UTC 2013,AMZN,Active,"Rigueiro,Filipa",
+102408326,daujota,"Daujotaite,Kornelija",15398300,1092,Thu Mar 23 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+108629751,boguzson,"Boguziene,Sonata",12091171,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+110937809,nwachunn,"Nwachukwu,Nnaemeka Charles",13518404,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+100328331,fssilva,"Da Silva,Fernando",14933907,1092,Fri Mar 10 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+108552929,pusilviu,"Puscatu,Silviu Florin",0256254,1092,Tue Mar 21 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+200562920,haydegiv,"Giddings,Hayden",12473129,1092,Fri Oct 21 00:00:00 UTC 2022,3PTY,Active,"King,Jacob Thomas",CTRG
+200680820,sullivbe,"Sullivan,Benjamin",14357115,1092,Thu Nov 03 00:00:00 UTC 2022,3PTY,Active,"Gyan,Belinda Asuaah",CTRG
+108870901,sjustasm,"Skuja,Justas",13365756,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+110787030,hushussv,"Hussain,Husnain",12540674,1092,Sun Jan 09 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+110603500,kelzcraw,"Crawford,Kelly",12349045,1092,Sun Nov 28 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+111440968,jboreill,"OReilly,Joshua",14905636,1092,Thu May 25 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+200944900,wingklo,"LO,WING KIT",12502589,1092,Mon Dec 12 00:00:00 UTC 2022,3PTY,Active,"Vanhala,Nico Matias",CTRG
+101287925,jaalvaro,"Alvaro,Joao",0188823,1092,Fri Mar 24 00:00:00 UTC 2017,3PTY,Active,"Hitchen,Heather",CTRG
+106441656,khezaa,"khezar,abdelhalim Flavio",12464152,1092,Fri Jun 23 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+105882710,cacarv,"De Carvalho,Carlos Xavier",12983618,1092,Sun Dec 06 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+103470341,ikkaczma,"Kaczmarek,Iwona",11940111,1092,Sun Jul 28 00:00:00 UTC 2019,AMZN,Active,"Richardson,Neil",
+113316769,jphilpoy,"Philpott,Justin",14638806,1705,Mon May 01 00:00:00 UTC 2023,AMZN,Active,"Wilson,Nathan",
+106783408,aaadouma,"Adoumai,Amir Mohamed",14330461,1092,Thu May 25 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+111381436,samejaku,"Sameja,Kulsum",12758048,1092,Sun Nov 13 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+103535882,ionelava,"Danila,Valentina",11333661,1092,Sun Jul 28 00:00:00 UTC 2019,AMZN,Active,"Rigueiro,Filipa",
+110787844,elhamams,"Elhamamsy,Mohamed Ammar",13780036,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+103607556,barchaj,"Barchanska,Jolanta",11185502,1092,Sun Aug 23 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+108110083,mehmanum,"Mehmood,Anum",14396334,1092,Sat Jul 08 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+111475388,sambabys,"Baby,Sam",11826822,1092,Sun Dec 05 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+112391022,norviram,"Norvillis,Ramunas",13424381,1174,Mon Mar 28 00:00:00 UTC 2022,3PTY,Active,"Sera,Marianela Ramos",PHO
+103980697,wlodaj,"Wlodarczyk,Jolanta Alicja",11796200,1092,Sun Dec 11 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+201626872,renpulko,"Pulks,Renars",11745769,1092,Fri Jun 23 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+112769296,rahelvas,"Rahela,Vasile Ana",11903580,1092,Sun Oct 09 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+107020511,thbishnu,"Thapa,Bishnu",12522298,1092,Mon Apr 17 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+108528095,paweknie,"Knieja,Pawel",11337037,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+102960536,dggaliny,"Galinyte,Deimante",11595893,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"King,Jacob Thomas",
+104697970,abdenmo,"Abdelmoaez,Mohamed Zaki",14636620,1092,Tue Mar 21 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+101051296,mbbatog,"Batog,Michalina",15016772,1092,Sun Sep 18 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+200719427,justanai,"Justo,Ana",12882741,1092,Thu May 18 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+105247998,vesaraiv,"Saraiva,Vera Mendes Machado",11198910,1092,Sun May 24 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+101685762,dggibber,"Gibberd,Daniel Paul",0248663,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+110059684,sampacas,"Sampa Cassama,Aminata abduevna",15161205,1092,Sun Oct 16 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+108693653,samadsen,"Madsen,Sarah Grace",12347334,1092,Sun Apr 10 00:00:00 UTC 2022,AMZN,Active,"Gyan,Belinda Asuaah",
+110752586,austidap,"Austin,David",11098637,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+110168620,mayokhan,"Khanye,Mayibongwe Keith",15275955,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+102036937,gdenitsa,"Genova,Denitsa Tsvetanova",11989506,1092,Sun Jun 10 00:00:00 UTC 2018,AMZN,Active,"King,Jacob Thomas",
+105455557,vstephal,"ALLEN,STEPHEN",13565350,1092,Sun May 30 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+201680134,muhammii,"Iftikhar,Muhammad",12098450,1092,Sat Jul 01 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+100038990,berzinal,"berzina,laura",13169054,1092,Sat Apr 08 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+110051358,mjulisar,"Sardar,Julia",15154201,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+107813159,pjordana,"Petrosius,Jordanas",13373016,1092,Thu Jun 01 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+110891460,koryckba,"Korycka,Barbara",11364191,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+109082933,shafshir,"Shafique,Sheraz",14094033,1299,Wed Dec 16 00:00:00 UTC 2020,3PTY,Active,"Nichols,Jordan",MCPL
+106505105,onishche,"Onishchenko,Andrii",0256264,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+110007068,cesndani,"Cesna,Danielius",11041552,1092,Sun Oct 02 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+100960510,airtond,"Ferreira Dembo,Airton",0220271,1092,Sun Oct 09 00:00:00 UTC 2016,AMZN,Active,"Kapcia,Bartosz",
+110933416,quetm,"Queta,Maria Isabel",13766600,1257,Sat Sep 25 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+201720157,bibisami,"BibI,Samia",13236574,1092,Sat Jul 08 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+100960515,chistola,"Chistol,Alexandru",0258878,1092,Sun Oct 30 00:00:00 UTC 2016,AMZN,Active,"Krzeminska,Katarzyna",
+200938871,dmytrpop,"Popov,Dmytro",10227011,1092,Sat Dec 10 00:00:00 UTC 2022,3PTY,Active,"Richardson,Neil",CTRG
+108784474,collijof,"Collings,Jordan",13491515,1092,Sun Mar 28 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+111021958,sammutal,"Sammut,Alexander Christopher",12917520,1092,Sun Nov 28 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+201672786,dholmaya,"Dhola,Mayank Babubhai",12096684,1092,Wed Jun 28 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+112760438,norpkimb,"Norris,Kimberly Praiwan",13979750,1092,Sun Sep 18 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+108917925,pearseja,"Pearse,Jamie",13918230,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"King,Jacob Thomas",
+107474044,fiqasimi,"Qasimi,Fida",13533003,1092,Sat Jul 01 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+201672662,podimita,"Pop-Pecev,Dimitar",13398149,1092,Wed Jun 28 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+106729129,kieszkw,"Kieszkowski,Wojciech",14425994,1092,Sun Oct 02 00:00:00 UTC 2022,AMZN,Active,"Kapcia,Bartosz",
+108562956,cbalakum,"Kumar,Balak",12207307,1092,Wed Aug 17 00:00:00 UTC 2022,3PTY,Active,"Vanhala,Nico Matias",CTRG
+103751629,laaleksa,"Lada,Aleksandra",11757964,1092,Sun Jul 28 00:00:00 UTC 2019,AMZN,Active,"Rigueiro,Filipa",
+102867166,rmmorkev,"Morkeviciute,Ruta",11324631,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+107400885,alsergee,"Sergeev,Alen",11468187,1092,Thu Mar 23 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+106880405,sallesf,"Venturini,Fabiola Venturini",12973927,1092,Sun Dec 06 00:00:00 UTC 2020,AMZN,Active,"Hughes,Andrew",
+100863853,msskele,"Skele,Mara",12735478,1092,Sun May 17 00:00:00 UTC 2020,AMZN,Active,"Hughes,Andrew",
+108755934,tvlnedas,"Nedaskovskis,Vladislavs",11103081,1092,Sun Jun 20 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+108378947,grzeskar,"Grzeskiewicz,Karolina",11466490,1092,Mon Mar 13 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+110639013,rodellro,"Roberts,Rodell",13348326,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+102338158,mbdaa,"Abdalla,Mohamed",14242569,1092,Sat Jul 08 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+100786645,fostuart,"Foreman,Stuart james",11110383,1092,Mon Oct 19 00:00:00 UTC 2015,AMZN,Active,"Moccia,Luigi",
+108671717,muraluiz,"Muraour,Luiza Maria",13384215,1092,Sun Feb 28 00:00:00 UTC 2021,AMZN,Active,"Jaral,Ayyaz",
+102364593,kchizah,"Chizah,Kundai",12041810,1092,Tue Jun 13 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+201653566,dimzafar,"Zafar,Dilawar Ahmad",11639811,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+113165745,wmartfis,"Fisher,Martin Grant",13610936,1705,Mon Oct 24 00:00:00 UTC 2022,AMZN,Active,"Wilson,Nathan",
+100301519,angelikc,"Klimek,Angelika",0212511,1092,Sun Jul 31 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+106838883,vennilia,"Venni,Liam Richard",12509297,1092,Sun Oct 04 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+105931182,mssadaqa,"Sadaqat,Mohammed",13227758,1551,Sun Jun 19 00:00:00 UTC 2022,AMZN,Active,"Baldwin,Nathan",
+109691186,fchfitzj,"Fitzjohn,Charlotte",14760893,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+111502544,virlanli,"Virlan,Liliana",14370736,1092,Sun Dec 05 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+200405165,zakamilp,"Zagajny,Kamil",11476204,1092,Thu Sep 29 00:00:00 UTC 2022,3PTY,Active,"Kapcia,Bartosz",CTRG
+108589960,mhailin,"Lin,Hai",12081158,1092,Sun Jun 27 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+104742045,pddimit,"Dimitrova,Pavlina Nedelcheva",13721725,1092,Sun Oct 03 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+106718908,ndmia,"Nowak,Damian Marcin",0124422,1092,Sun May 16 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+110173760,servesta,"Serzintaite,Vesta",14001319,1092,Fri Jun 23 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+109914898,ullwasee,"Ullah,Waseem",15003507,1168,Mon Jun 07 00:00:00 UTC 2021,AMZN,Active,"Farrer,Mark Scott",
+105656691,silvgils,"da Costa Silva,Gilson Omar",12735487,1092,Sun Jan 16 00:00:00 UTC 2022,AMZN,Active,"Hughes,Andrew",
+111455003,mladenod,"Mladenov,Dimitar Lazarov",13869852,1092,Sun Aug 07 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+201679832,ayaanmal,"Malik,Ayaan",11797129,1092,Sun Jul 02 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+108755925,kadacoyn,"Coyne,Adam Stephen",12718151,1092,Mon May 10 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+111569499,umascaul,"Massey,Cauley",11914874,1092,Sun Mar 27 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+103800040,cegebbia,"Gebbia,Cesare",12578368,1092,Sun Oct 10 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+108815508,ilizlima,"Lima,Ilizabete Fernando",0137204,1092,Sat Apr 08 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+109422124,lewrwell,"Weller,Lewis",14472160,1092,Sun Aug 08 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+110813012,barbutkr,"Barbutkaite,Ruta",12748954,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+113124172,karikask,"Kaskure,Karina",14895993,1092,Tue Sep 20 00:00:00 UTC 2022,3PTY,Active,"Richardson,Neil",CTRG
+105708574,taiwi,"Williams,Tai Nathaniel",12792281,1092,Sun Nov 28 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+110477027,ulhaqnoq,"Ulhaq,Nooran",13544746,1092,Fri Jun 02 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+101143326,begiedre,"Berneckiene,Giedre",11491914,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+105819999,tinakane,"Kane,Tina",12914535,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"Hughes,Andrew",
+201366734,btathapa,"Thapa,Tara",14638954,1092,Fri Apr 28 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+112114916,bercadju,"Cadju,Bertilina",14982897,1174,Fri Jan 28 00:00:00 UTC 2022,3PTY,Active,"Sera,Marianela Ramos",PHO
+105570381,mamzaj,"Mamzaleva,Jekaterina",0006454,1092,Sat Mar 18 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+101435140,baltanet,"Baltgaile,Anete",0,1092,Tue Aug 30 00:00:00 UTC 2022,3PTY,Active,"Richardson,Neil",PMP
+106595054,abasevij,"Abasevicius,Justinas",11309259,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+111122636,mderafal,"Deput,Rafal",0099496,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+107703544,ligiavas,"Ligia,Vasile",12706279,1092,Sun Sep 11 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+201289344,rychterl,"Rychter,Lukasz",11411670,1092,Fri Apr 07 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+100126679,raivisu,"Uzuls,Raivis",11561254,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+200831489,jeilanxk,"Kedir,Jeilan",11360357,1092,Thu Jun 29 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+112780808,danyialm,"Ibrar,Danyial",11352148,1092,Fri Jul 08 00:00:00 UTC 2022,3PTY,Active,"Vanhala,Nico Matias",CTRG
+201687498,moseohun,"Ohuneniese,Moses",11546452,1092,Sun Jul 02 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+105857170,hcandiot,"Candioto,Helen Soares Rodrigues",12956603,1092,Sun Sep 27 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+113081430,rmirpasc,"Pascu,Mirela",14474529,1092,Wed Sep 14 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+109330579,kalocovv,"Kalocova,Veronika",15207257,1092,Thu Oct 20 00:00:00 UTC 2022,3PTY,Active,"Alvaro,Joao",CTRG
+201587895,odayisha,"ODAYIL,SHARON",11456765,1092,Thu Jun 15 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+110933405,sarmer,"Peteita Sarmento,Rodrigo Pereira",11617545,1257,Sat Sep 25 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+105400528,ammould,"Mould,Tony",12525168,1092,Sun Oct 09 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+101397933,jawadia,"Jawadi,Abulfazel",13841402,1092,Thu Apr 13 00:00:00 UTC 2023,3PTY,Active,"Richardson,Neil",CTRG
+111381439,iablakem,"Blakemore,Ian",12968721,1092,Sun Sep 11 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+101716972,issirb,"Sirbu,Ion",11256269,1153,Sun Jun 27 00:00:00 UTC 2021,AMZN,Active,"Forge,Rebecca",
+201247770,lpxavier,"Xavier,Lopes Tamben",11157183,1174,Fri Mar 24 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+432733,blausp,"Blaus,Peteris",13866196,1092,Thu Jun 01 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+101869265,bhuiya,"Bhuiyan,Mohammad",11816714,1092,Sun Jun 04 00:00:00 UTC 2017,AMZN,Active,"King,Jacob Thomas",
+109360511,gathornl,"Thornley,Gary",14403003,1092,Sun Jun 13 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+108732755,kaczmkar,"Kaczmarek,Karolina",12161835,1092,Sun Oct 10 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+109082934,kofiako,"Ackom,Kofi",14094034,1299,Wed Dec 16 00:00:00 UTC 2020,3PTY,Active,"Nichols,Jordan",MCPL
+112975979,wwijonah,"Williams,Jonah",14224263,1092,Sun Oct 09 00:00:00 UTC 2022,AMZN,Active,"Kapcia,Bartosz",
+108589993,thomsoha,"Thomson-Johnston,Hannah Lucy",11133846,1092,Sun Jul 04 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+101993798,diakirse,"Kirse,Diana",12452736,1092,Sun Oct 10 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+109356342,colchrip,"Collis,Chris Charles",14399626,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+201665211,mumeemaa,"Eemaan,Muminah",13946511,1092,Wed Jun 28 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+105072383,costlupu,"Lupu,Costin",11775410,1092,Sun Apr 12 00:00:00 UTC 2020,AMZN,Active,"Richardson,Neil",
+104604039,sddabek,"Dabek,Slawomir",12227328,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+110067830,micberih,"Berihu,Michaele",15172350,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+108342310,zapitsho,"Dikiefu zanga,Pitshou",14714713,1092,Sat Jul 01 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+201560584,esraddai,"Addai,Esra",12623662,1092,Mon Jun 12 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+110425635,krilyter,"Krilyte,Rolanda",0128215,1092,Tue Aug 03 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+200938873,tyndvikt,"Tynda,Viktoriia",13998804,1092,Sat Dec 10 00:00:00 UTC 2022,3PTY,Active,"Richardson,Neil",CTRG
+100732216,tursaib,"Tursaite,Beatrice",11028598,1092,Sun Mar 27 00:00:00 UTC 2016,AMZN,Active,"Hughes,Andrew",
+109897560,andersuj,"Anderson,Jessica",14985368,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+110473503,oronacha,"Chandler,Ronald dean",11594485,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+110813050,dalemans,"Lemanski,Dawid",12821416,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+201720158,anandela,"Elangovan,Anandraj",12466216,1092,Sat Jul 08 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+201366731,mohealis,"Alissawi,Mohammad Hassan ramadan",14541238,1092,Fri Apr 28 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+103530750,mrrezaye,"Rezaye,Masoma",11708470,1092,Sun Oct 11 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+201720156,jkaraniq,"Karani,Jeremy Lucas",14813755,1092,Sat Jul 08 00:00:00 UTC 2023,3PTY,Active,"Alexandru,Madalina",CTRG
+201673662,uahmadda,"Ahmadali,Dawan",13569895,1092,Thu Jun 29 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+100888217,mihsandu,"Sandu,Mihai Danut",11279341,1092,Sun Nov 20 00:00:00 UTC 2016,AMZN,Active,"Kapcia,Bartosz",
+201377926,cbuethan,"Bur,Ethan Adam",12968042,1092,Tue May 02 00:00:00 UTC 2023,3PTY,Active,"Gyan,Belinda Asuaah",CTRG
+201297384,elinzarj,"Zarjanska,Elina",0060889,1092,Mon Apr 17 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+103402542,blachap,"Blacha,Pawel",11084641,1092,Sun Jul 28 00:00:00 UTC 2019,AMZN,Active,"Kapcia,Bartosz",
+111454997,xdwiecek,"Wiecek,Daria Angelika",0263379,1092,Sun Apr 10 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+106279179,szubk,"Szuban,Kinga Magdalena",11764668,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+201235687,behranmi,"Mirshekari,Behrang",13197120,1092,Thu Mar 23 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+111075649,pmaryasi,"Siddique,Maryam",11039359,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+108904561,marhansx,"Hansard,Mark",13902635,1092,Sun Aug 22 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+111349578,sarmenro,"Sarmento,Rodrigo Pereira",13432073,1174,Thu Oct 28 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+201679833,iqbalhan,"Iqbal,Haidar",15239718,1092,Sat Jul 01 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+105703267,keitsh,"Sharpe,Keith Alan",15283756,1092,Sun Sep 11 00:00:00 UTC 2022,AMZN,Active,"Hughes,Andrew",
+103612171,mabento,"Mateus,Bento",11859026,1092,Sun Aug 11 00:00:00 UTC 2019,AMZN,Active,"Rigueiro,Filipa",
+102009292,elvinam,"Mickiene,Elvina",11278377,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+106663329,cravid,"Cravid,Rosangelo dos Santos",11610937,1092,Sat Jul 24 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+105730127,nvanhala,"Vanhala,Nico Matias",12816960,1172,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Jaral,Ayyaz",
+102579501,josousa,"Sousa,Jose Emanuel Pires",14787798,1092,Fri Jun 02 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+105094273,ladafili,"Lada,Filip Jakub",12293074,1092,Sun Apr 12 00:00:00 UTC 2020,AMZN,Active,"Rigueiro,Filipa",
+201653574,nazabduc,"Nazir,Abdul",0019967,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+201456351,toloduls,"Odulawa,Tolulope",14969583,1092,Fri May 19 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+111152011,xalexaga,"Gavrilenco,Alexandru",12943840,1092,Thu Oct 27 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+111454958,galedavm,"Gale,David",11220577,1092,Sun Dec 05 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+113025944,cavalenl,"Cardona Garcia,Valentina",14931843,1092,Mon Sep 05 00:00:00 UTC 2022,3PTY,Active,"Vanhala,Nico Matias",CTRG
+100915767,iccorujo,"Corujo,Ilda",14423013,1092,Sun Aug 29 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+111333166,singlpet,"singleton,peter Robert",12815751,1092,Sun Mar 27 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+100612828,yarnes,"yarney,samuel",12823897,1092,Sun Jan 31 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+109333682,machreas,"Machando,Reason",14374082,1092,Sun Oct 17 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+103486560,serafiz,"Zurawski,Serafin",11212040,1092,Sun Jul 28 00:00:00 UTC 2019,AMZN,Active,"Kapcia,Bartosz",
+111390062,cmawilli,"Mas,William",12741535,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+200613707,usadanic,"Usatii,Daniela",12703608,1092,Thu Oct 27 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+102209857,mverman,"Verman,Monica Geanina",12167691,1092,Sun Jun 28 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+101143332,addzieza,"Dzieza,Aleksandra",11203922,1092,Sun Sep 04 00:00:00 UTC 2016,AMZN,Active,"King,Jacob Thomas",
+110683169,iogunkil,"Ogunkile,Ifedapo Juwon",11389696,1551,Sat Sep 04 00:00:00 UTC 2021,AMZN,Active,"Baldwin,Nathan",
+111572760,wolsgabr,"Wolska,Gabriela Patrycja",12207523,1092,Sun Apr 10 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+104040305,stonrhys,"Stonely,Rhys Peter",12061984,1092,Fri Mar 24 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+201358642,hhabdelh,"Hamdaoui,Abdelhalim",14177456,1092,Tue Apr 25 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+111572771,iulianay,"Popa,Iuliana",14353954,1092,Sun Mar 27 00:00:00 UTC 2022,AMZN,Active,"Rigueiro,Filipa",
+201289342,bruccles,"Bruce,Leslie",12587221,1092,Fri Apr 07 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+201578717,fizmoham,"Fizaan,Mohammed",0147695,1092,Tue Jun 13 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+109348348,srivneha,"Srivastava,Neha",12813033,1092,Thu Jun 29 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+113065906,salomaga,"Salomao,Gabriel",12675446,1092,Sun Oct 09 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+110933403,djuguilh,"Dju,Guilhermina",11090119,1257,Sat Sep 25 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+110477028,thapygan,"thapa,ganesh",11476422,1092,Mon Apr 17 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+101866389,regmidee,"Deepak,Regmi",11812632,1299,Thu Dec 01 00:00:00 UTC 2016,3PTY,Active,"Nichols,Jordan",ICTS
+201653572,dmuhamkh,"Khan,Muhammad Raiyyan",11308198,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+111441723,fatumaem,"Embalo,Fatumata Balde",14147442,1174,Fri Nov 05 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+100888216,marsandu,"Sandu,Cristina",11279340,1092,Sun Oct 09 00:00:00 UTC 2016,AMZN,Active,"Rigueiro,Filipa",
+106410259,dkublin,"Kublina,Daila",0144905,1092,Sun Dec 13 00:00:00 UTC 2020,AMZN,Active,"Vanhala,Nico Matias",
+109304334,eleuteo,"Sanchez Osoria,Eleuterio Leon Leon",14341412,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+112464901,steifowl,"FOWLER,STEVEN",13558477,1092,Sun Jul 17 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+200550832,stroberm,"Stelian,Robert Marian",11165602,1092,Fri Jun 02 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+111657468,ndstefan,"Stefanek,Dominik Benjamin",11305709,1092,Sun Jan 16 00:00:00 UTC 2022,AMZN,Active,"King,Jacob Thomas",
+110983118,djackkin,"King,Jack Summers",11460454,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+100426849,kerian,"O'garro,Keri-Ann",11279344,1092,Sun Oct 23 00:00:00 UTC 2016,AMZN,Active,"Rigueiro,Filipa",
+201406076,jboatend,"Boatend,John",15210625,1174,Fri May 05 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+108277467,banunoav,"Bastos,Nuno Avelino",12810202,1092,Sun Jul 31 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+113124402,sisandrl,"Silva,Sandro Miguel Saraiva",15018954,1092,Sun Nov 20 00:00:00 UTC 2022,AMZN,Active,"Gyan,Belinda Asuaah",
+201218648,anyarovy,"Yarovyi,Anatolii",14724815,1092,Fri Mar 17 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+103970967,ivapopp,"Pop-Peceva,Iva",13160961,1092,Wed Jun 28 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+104839566,grecvict,"GRECU,VICTOR",11800508,1171,Mon Aug 01 00:00:00 UTC 2022,3PTY,Active,"Sharma,Rajeev",ULSL
+109973891,vbrabell,"Bell,Brandon",15066981,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+106188254,fasarwar,"Sarwar,Faisal",13309969,1092,Sun Nov 29 00:00:00 UTC 2020,AMZN,Active,"Kapcia,Bartosz",
+111352777,flordias,"Dias Monteiro,Florence",0200680,1174,Thu Oct 28 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+104079798,harrishx,"Harris,Stephen Paul",11625090,1092,Thu May 18 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+103486555,jasuti,"Jasutis,Grazvydas",13418929,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+110839149,nochaler,"Chalermsri,Nopporn",14016822,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+201475766,baldfatp,"Balde Embalo,Fatumata",11397044,1174,Mon May 22 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+111502568,virliuri,"Virlan,Iurie",14375833,1092,Sun Dec 12 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+105104948,boshab,"Bosh,Ali",14984616,1092,Thu May 18 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+108671628,tayliain,"Taylor,Iain",0033299,1092,Sun Jan 31 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+509304,annpigda,"Pigdanowicz,Anna",0069257,1092,Fri Jul 15 00:00:00 UTC 2011,3PTY,Active,"Alvaro,Joao",CTRG
+100600311,kpotryku,"Potrykus,Kamil",13014774,1092,Thu May 26 00:00:00 UTC 2022,3PTY,Active,"Alvaro,Joao",CTRG
+111658972,mdebicka,"Debicka,Magdalena Joanna",14537228,1092,Sun Apr 10 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+111599418,nikopsta,"Nikov,Stanislav Danielov",14278874,1092,Sun Mar 27 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+108681489,rhytregm,"Regmi,Rhythm",13846005,1174,Tue Mar 28 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+111490083,bawartur,"Babula,Artur Jan",14128104,1092,Sun Nov 28 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+107626018,candiotd,"Candioto,David",12020095,1092,Sun Apr 25 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+200544643,jaspattf,"Patterson,Jason Matthew",13329941,1092,Wed Oct 19 00:00:00 UTC 2022,3PTY,Active,"Hughes,Andrew",CTRG
+102529820,fssmart,"Smart,Frances",12506081,1092,Fri Oct 11 00:00:00 UTC 2019,3PTY,Active,"Siciliano,Adam David",CTRG
+113031205,patryccl,"Chwila,Patrycja",12544264,1092,Sun Apr 09 00:00:00 UTC 2023,3PTY,Active,"Richardson,Neil",CTRG
+201362399,fantsalv,"Fantauzzo,Salvatore",12501053,1092,Thu Apr 27 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+102209856,sylwbara,"Baran,Sylwia",12873159,1092,Fri Nov 15 00:00:00 UTC 2019,3PTY,Active,"Alvaro,Joao",CTRG
+101618953,verikasm,"Verikas,Modestas",11543293,1092,Sun Nov 28 00:00:00 UTC 2021,AMZN,Active,"Gyan,Belinda Asuaah",
+201699451,ftouraya,"Touray Soumareh,Aisitu",0264633,1092,Wed Jul 05 00:00:00 UTC 2023,3PTY,Active,"Gyan,Belinda Asuaah",CTRG
+201258920,jumamlea,"Mamle Adjetey,Juliana",11036346,1174,Tue Mar 28 00:00:00 UTC 2023,3PTY,Active,"Bennett,Jack",PHO
+100849403,churasd,"Churas,Dorota churas Barbara",12895988,1092,Sun Oct 09 00:00:00 UTC 2022,3PTY,Active,"Kapcia,Bartosz",CTRG
+200822733,epranevu,"Pranevskis,Edgars",11707120,1092,Fri Nov 18 00:00:00 UTC 2022,3PTY,Active,"Rigueiro,Filipa",CTRG
+113028066,olekrafa,"Rafalska,Oleksandra",0053329,1092,Sun Sep 25 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+102987287,ivaalex,"Ivan,Alexandru",11403626,1092,Sun Jul 28 00:00:00 UTC 2019,AMZN,Active,"Vanhala,Nico Matias",
+201679831,muhawal,"Ali,Muhammad Haroon",12682975,1092,Sat Jul 01 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+112827853,markaldh,"Aldhouse,Mark",12154494,1705,Mon Jul 25 00:00:00 UTC 2022,AMZN,Active,"Wilson,Nathan",
+201486455,veroomeh,"Mehek,Veronika",14642120,1092,Fri May 26 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+110981342,fbedugni,"Bedugnis,Ricardas",11357518,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+201674101,jebrilyo,"Yonis,Jebril",14257845,1092,Wed Jul 05 00:00:00 UTC 2023,3PTY,Active,"Gyan,Belinda Asuaah",CTRG
+109876393,achiariz,"Chiarizia,Tony",14961366,1153,Mon May 31 00:00:00 UTC 2021,AMZN,Active,"Forge,Rebecca",
+201626871,serzinta,"Serzintaite,Kamile",11117479,1092,Fri Jun 23 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+109631707,simonaju,"Jurevicius,Simonas",13756878,1092,Sat Mar 18 00:00:00 UTC 2023,3PTY,Active,"Richardson,Neil",CTRG
+108528098,youaltej,"Yousef,Altejani",13646915,1092,Fri Apr 07 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+108904547,ishmahah,"Ahmed,Ishmah",13902624,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+111677986,cerceste,"Cercel,Stefan",13473834,1092,Sun Jul 17 00:00:00 UTC 2022,AMZN,Active,"Hughes,Andrew",
+103698881,mghebrez,"Ghebrezghi,Meron",0250541,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+109632639,rynwilso,"Wilson,Ryan",14699937,1092,Sun Aug 29 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+106783598,mpramoon,"Mead,Pramoon",13297721,1092,Sun Oct 09 00:00:00 UTC 2022,3PTY,Active,"Kapcia,Bartosz",CTRG
+107693752,vilinrol,"Vilinauskas,Rolandas",11455527,1092,Mon Mar 13 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+108857786,iveliivc,"Ivanov,Ivelin IVANOV",12718203,1092,Sun Oct 31 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+112805055,qbisneda,"Bistrovas,Nedas",11187833,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Hughes,Andrew",CTRG
+108175014,mieled,"Mieleniewski,Daniel",13820292,1092,Mon Oct 05 00:00:00 UTC 2020,AMZN,Active,"Hughes,Andrew",
+200464187,adedeadd,"Adebayo,Adedeji",11640324,1092,Fri Oct 07 00:00:00 UTC 2022,3PTY,Active,"Kapcia,Bartosz",CTRG
+111246498,mvirllil,"Virlan,Liliana",11743575,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+111441718,sembaloc,"Embalo,Celeste Assanatu",14145655,1174,Fri Nov 05 00:00:00 UTC 2021,3PTY,Active,"Sera,Marianela Ramos",PHO
+112762927,jumilena,"Jurena,Milena",12677878,1092,Sun Oct 09 00:00:00 UTC 2022,AMZN,Active,"Richardson,Neil",
+109559042,nicolkee,"Keeble,Nicolas",14619931,1092,Sun Nov 21 00:00:00 UTC 2021,AMZN,Active,"Richardson,Neil",
+108502461,wosalexa,"Osborne,Alex Harry",11234664,1092,Sun Aug 22 00:00:00 UTC 2021,AMZN,Active,"Vanhala,Nico Matias",
+110798264,pricenan,"Price,Andrea",11348438,1092,Sun Oct 24 00:00:00 UTC 2021,AMZN,Active,"Hughes,Andrew",
+106621971,monova,"Monova,Boyka Kolyova",12326988,1092,Sun Oct 17 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+201358643,miulsleu,"Leung,Miu Ling",13992159,1092,Tue Apr 25 00:00:00 UTC 2023,3PTY,Active,"Vanhala,Nico Matias",CTRG
+109647667,khafajto,"Khafaji,Toni",14711939,1092,Sun Aug 28 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
+109275363,krzwloda,"Wlodarczyk,Krzysztof Szczepan",14310170,1092,Sun Nov 07 00:00:00 UTC 2021,AMZN,Active,"Rigueiro,Filipa",
+110757480,jancpaul,"Jancauskas,Paulius",13456158,1092,Sun Nov 14 00:00:00 UTC 2021,AMZN,Active,"Kapcia,Bartosz",
+107805050,shoyhuss,"Shoyib,Hussanain",12236377,1092,Wed Jun 28 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+106536787,giedrij,"Juchno,Giedrius",13396837,1092,Tue Jun 27 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+201235689,opatbran,"Brandt,Patrycja",12706149,1092,Thu Mar 23 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+109721776,ievaslay,"Slahcikovska,Ieva",14641836,1092,Mon Oct 03 00:00:00 UTC 2022,3PTY,Active,"Vanhala,Nico Matias",CTRG
+201239623,antumojo,"Joseph,Antumon",13882519,1092,Fri Mar 24 00:00:00 UTC 2023,3PTY,Active,"Rigueiro,Filipa",CTRG
+200604138,shafahsa,"Shafique,Ahsan",12540962,1092,Thu Jun 01 00:00:00 UTC 2023,3PTY,Active,"Kapcia,Bartosz",CTRG
+112590285,mtomamcc,"McClure,Tomas",14658936,1092,Sun Jul 31 00:00:00 UTC 2022,AMZN,Active,"Vanhala,Nico Matias",
